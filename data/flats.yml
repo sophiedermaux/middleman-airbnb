@@ -1,0 +1,12 @@
+- city_name: 'London'
+  description: 'Best city in the world'
+  image_url: 'london'
+- city_name: 'Paris'
+  description: 'Good food'
+  image_url: 'paris'
+- city_name: 'Berlin'
+  description: 'A bit overated'
+  image_url: 'berlin'
+
+
+
